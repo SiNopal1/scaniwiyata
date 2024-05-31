@@ -1,0 +1,16 @@
+.main-image {
+    border-radius: 16px;
+    margin-bottom: 10px;
+}
+
+.medium {
+    line-height: 0.1;
+}
+
+#nama-taman {
+    line-height: 0.5;
+}
+
+hr {
+    margin: 20px 0 20px 0;
+}

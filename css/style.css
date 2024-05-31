@@ -1,0 +1,165 @@
+/* Bismillaahirrahmaanirrahiim */
+/* Robbanaa aatinaa fiddunyaa khasanah, wafil aakhirati khasanah, waqinaa adzaa bannaar */
+/* Ya Allah, berikanlah saya kemudahan dalam menyelesaikan proyek ini */
+
+html {
+    color: #6A6A6A;
+    margin: 0.25rem;
+}
+
+a {
+    color: inherit;          /* Inherit text color from parent */
+    text-decoration: none;   /* Remove underlines */
+    background-color: none;  /* Remove any background color */
+    cursor: pointer;         /* Maintain the pointer cursor on hover */
+  }
+  
+  a:hover {
+    text-decoration: none;   /* Ensure no underline on hover */
+  }
+  
+  a:visited {
+    color: inherit;          /* Inherit text color from parent even when visited */
+  }
+  
+  a:active {
+    color: inherit;          /* Inherit text color from parent when clicked */
+  }
+
+  
+/* .tiny-divider {
+    margin-top: 5px;
+} */
+
+.small-divider {
+    margin-top: 10px;
+}
+
+
+.divider {
+    margin-top: 15px;
+    padding-top: 15px;
+}
+
+.divider-3 {
+    margin-top: 45px;
+    padding-top: 45px;
+}
+
+.small {
+    font-size: 15px;
+}
+
+.medium {
+    font-size: 18px;
+}
+
+.name-label {
+    font-size: 24px; 
+}
+
+.line-spacing {
+    line-height: 1.25;
+}
+
+.no-line {
+    line-height: 1.25;
+}
+
+.center {
+    text-align: center;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.justify {
+    text-align: justify;
+    margin-left: -1rem;
+}
+
+.green {
+    color: #1A4D2E;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.inter-700 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+
+.counter {
+    float: left;
+    width: 33.33%;
+}
+
+.jumlah {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.button-rounded {
+    background-color: #1A4D2E; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 49%;
+}
+
+.button-columns {
+    width: 35%;
+    text-align: center; /* please i beg you this should work this time */
+    justify-content: center;
+}
+
+.button-rounded.button-columns {
+    display: flex; /* Mengaktifkan flexbox */
+    align-items: center; /* Menyelaraskan item secara vertikal */
+    /* Tambahkan style lain seperti padding, margin, dll. sesuai kebutuhan */
+  }
+
+#full-width-bismillah {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Alhamdulillaahirabbil'aalamiin */
